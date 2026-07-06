@@ -21,7 +21,7 @@ fulfilment, and how are sales likely to trend over the next six years?*
 KPI cards (Expected Revenue, Orders Fulfilled, Customers, Discount Amount) alongside
 profit by category and a monthly sales trend, with a year slicer for interactivity.
 
-![Executive Summary](images/page1_overview.png)
+![Executive Summary](Screenshot%202026-07-06%20023012.png)
 
 ### Page 2 — Operational Deep-Dive
 Order-fulfilment status, category vs. order quantity, and spend by payment method —
